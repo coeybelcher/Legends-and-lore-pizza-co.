@@ -133,3 +133,10 @@ body {
     height: auto;
   }
 }
+/* Body */
+body {
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  background-color: #1b1b1b;
+  color: #f4f1ec;
+}
